@@ -10,6 +10,16 @@
   <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-22C55E?style=for-the-badge&labelColor=15803D"/>
 </p>
 
+<p align="center">
+  <a href="mailto:va.yordanova05@gmail.com">
+    <img src="https://img.shields.io/badge/Email-va.yordanova05@gmail.com-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0369A1"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/vanessa-yordanova">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1D4ED8"/>
+  </a>
+</p>
+
 ---
 
 ## 🎯 About me
@@ -51,6 +61,13 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vaYordanova2005&show_icons=true&theme=default" alt="Vanessa's GitHub stats" />
 </p>
+
+---
+
+## 📫 Get in touch
+
+- 📧 [va.yordanova05@gmail.com](mailto:va.yordanova05@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/vanessa-yordanova)
 
 ---
 
