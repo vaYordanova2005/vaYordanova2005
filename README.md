@@ -26,7 +26,7 @@
 
 - 🎓 CS student, focused on backend systems and software development
 - ☕ Working mainly with **Java** — sockets, multithreading, client-server architecture
-- 🛠️ Also building with **JavaScript** on the frontend side
+- 🛠️ Also building full-stack with **Node.js**, **Express** and **PostgreSQL**
 - 🎮 Interested in gamification design — XP systems, badges, engagement mechanics
 - 🤝 Open to: **Internship** / **Junior Developer** roles
 
@@ -37,10 +37,12 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/>
 </p>
 
 ---
@@ -50,8 +52,8 @@
 | Project | Description | Tech |
 |---|---|---|
 | [java-client-server-system](https://github.com/vaYordanova2005/java-client-server-system) | Client-server role-based system with sockets, multithreading, and user management | Java |
-| [java-multiclient-chat-system](https://github.com/vaYordanova2005/java-multiclient-chat-system) | Multi-client chat system | Java |
-| [pythia-bookshop](https://github.com/vaYordanova2005/pythia-bookshop) | Online bookshop | JavaScript |
+| [java-multiclient-chat-system](https://github.com/vaYordanova2005/java-multiclient-chat-system) | Multi-client chat app with friends, avatars and blocking, backed by PostgreSQL | Java, PostgreSQL, HikariCP |
+| [pythia-bookshop](https://github.com/vaYordanova2005/pythia-bookshop) | Online bookshop with catalogue, cart, checkout and an animated WebGL interface | Node.js, Express, PostgreSQL |
 | [gamification-br](https://github.com/vaYordanova2005/gamification-br) | Feature design for a gamification system (XP, badges, engagement mechanics) for a learning platform | Design / Spec |
 
 ---
