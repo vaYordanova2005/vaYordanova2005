@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Vanessa 👋</h1>
 
 <p align="center">
-  CS student · Building client-server and multithreaded applications in Java.
+  CS student · Full-stack developer building across Java, Node.js/React and Python.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Java%20%26%20Backend-B07219?style=for-the-badge&logo=java&logoColor=white&labelColor=5C4A1A"/>
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-6366F1?style=for-the-badge&labelColor=4338CA"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-22C55E?style=for-the-badge&labelColor=15803D"/>
 </p>
@@ -24,10 +24,10 @@
 
 ## 🎯 About me
 
-- 🎓 CS student, focused on backend systems and software development
-- ☕ Working mainly with **Java** — sockets, multithreading, client-server architecture
-- 🛠️ Also building full-stack with **Node.js**, **Express** and **PostgreSQL**
-- 🎮 Interested in gamification design — XP systems, badges, engagement mechanics
+- 🎓 CS student, building full-stack and applied software projects — from low-level systems to AI-powered apps
+- 💻 Comfortable across the stack: **Java**, **Node.js/Express**, **React**, and **Python (FastAPI)**
+- 🧠 Currently working with knowledge graphs and vector search (Neo4j, Weaviate) on an AI document assistant
+- 🎮 Designed and shipped a gamification module — XP systems, badges, engagement mechanics
 - 🤝 Open to: **Internship** / **Junior Developer** roles
 
 ---
@@ -37,10 +37,12 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 </p>
