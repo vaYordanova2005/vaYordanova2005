@@ -54,7 +54,8 @@
 | [java-client-server-system](https://github.com/vaYordanova2005/java-client-server-system) | Client-server role-based system with sockets, multithreading, and user management | Java |
 | [java-multiclient-chat-system](https://github.com/vaYordanova2005/java-multiclient-chat-system) | Multi-client chat app with friends, avatars and blocking, backed by PostgreSQL | Java, PostgreSQL, HikariCP |
 | [pythia-bookshop](https://github.com/vaYordanova2005/pythia-bookshop) | Online bookshop with catalogue, cart, checkout and an animated WebGL interface | Node.js, Express, PostgreSQL |
-| [gamification-br](https://github.com/vaYordanova2005/gamification-br) | Feature design for a gamification system (XP, badges, engagement mechanics) for a learning platform | Design / Spec |
+| [gamification-module](https://github.com/vaYordanova2005/gamification-module) | Standalone gamification module (achievements, XP, badges) extracted from an internship LMS project, with a live demo | Node.js, Express, React, MongoDB |
+| [GraphMind](https://github.com/GraphMind-Team/GraphMind-Intelligent-Document-Assistant) | Document Q&A assistant combining vector retrieval with knowledge-graph traversal for grounded, cited answers | Python (FastAPI), React, Neo4j, Weaviate |
 
 ---
 
