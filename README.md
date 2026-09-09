@@ -26,7 +26,7 @@
 
 - 🎓 CS student, building full-stack and applied software projects — from low-level systems to AI-powered apps
 - 💻 Comfortable across the stack: **Java**, **Node.js/Express**, **React**, and **Python (FastAPI)**
-- 🧠 Currently working with knowledge graphs and vector search (Neo4j, Weaviate) on an AI document assistant
+- 🧠 Built GraphMind, an AI document assistant combining knowledge graphs and vector search (Neo4j, Weaviate)
 - 🎮 Designed and shipped a gamification module — XP systems, badges, engagement mechanics
 - 🤝 Open to: **Internship** / **Junior Developer** roles
 
@@ -51,13 +51,13 @@
 
 ## 🚀 Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| [java-client-server-system](https://github.com/vaYordanova2005/java-client-server-system) | Client-server role-based system with sockets, multithreading, and user management | Java |
-| [java-multiclient-chat-system](https://github.com/vaYordanova2005/java-multiclient-chat-system) | Multi-client chat app with friends, avatars and blocking, backed by PostgreSQL | Java, PostgreSQL, HikariCP |
-| [pythia-bookshop](https://github.com/vaYordanova2005/pythia-bookshop) | Online bookshop with catalogue, cart, checkout and an animated WebGL interface | Node.js, Express, PostgreSQL |
-| [gamification-module](https://github.com/vaYordanova2005/gamification-module) | Standalone gamification module (achievements, XP, badges) extracted from an internship LMS project, with a live demo | Node.js, Express, React, MongoDB |
-| [GraphMind](https://github.com/GraphMind-Team/GraphMind-Intelligent-Document-Assistant) | Document Q&A assistant combining vector retrieval with knowledge-graph traversal for grounded, cited answers | Python (FastAPI), React, Neo4j, Weaviate |
+| Project | Description | Tech | Live |
+|---|---|---|---|
+| [Markly](https://github.com/vaYordanova2005/java-client-server-system) | School grading platform — Spring Boot + PostgreSQL + React, role-based (Admin/Teacher/Student) for grades, calendar and student registrar profiles | Java, Spring Boot, PostgreSQL, React, TypeScript | [Demo](https://markly-frontend.onrender.com) |
+| [java-multiclient-chat-system](https://github.com/vaYordanova2005/java-multiclient-chat-system) | Desktop multi-client chat app (JavaFX + WebSocket server) with friends, avatars and blocking, backed by PostgreSQL | Java, JavaFX, PostgreSQL, HikariCP | — (desktop app) |
+| [pythia-bookshop](https://github.com/vaYordanova2005/pythia-bookshop) | Online bookshop with catalogue, cart, checkout and an animated WebGL interface | Node.js, Express, PostgreSQL | [Demo](https://pythia-bookshop.onrender.com) |
+| [gamification-module](https://github.com/vaYordanova2005/gamification-module) | Standalone gamification module (achievements, XP, badges) extracted from an internship LMS project | Node.js, Express, React, MongoDB | [Demo](https://gamification-module-preview.onrender.com/demo) |
+| [GraphMind](https://github.com/GraphMind-Team/GraphMind-Intelligent-Document-Assistant) | Document Q&A assistant combining vector retrieval with knowledge-graph traversal for grounded, cited answers | Python (FastAPI), React, Neo4j, Weaviate | [Demo](https://graphmind-web.onrender.com) |
 
 ---
 
