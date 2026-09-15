@@ -55,7 +55,7 @@
 |---|---|---|---|
 | [student-grading-platform](https://github.com/vaYordanova2005/student-grading-platform) | Markly — school grading platform, role-based (Admin/Teacher/Student) for grades, calendar and student registrar profiles | Java, Spring Boot, PostgreSQL, React, TypeScript | [Demo](https://markly-frontend.onrender.com) |
 | [multiclient-chat-system](https://github.com/vaYordanova2005/multiclient-chat-system) | Chat app with public rooms, DMs, group chats, friends and blocking — rebuilt from a JavaFX desktop app into a deployable web app (legacy JavaFX version kept for reference) | Java, Spring Boot, React, PostgreSQL | [Demo](https://messenger-fe-18o2.onrender.com) |
-| [pythia-bookshop](https://github.com/vaYordanova2005/pythia-bookshop) | Online bookshop with catalogue, cart, checkout and an animated WebGL interface | Node.js, Express, PostgreSQL | [Demo](https://pythia-bookshop.onrender.com) |
+| [pythia-bookshop](https://github.com/vaYordanova2005/pythia-bookshop) | Online bookshop with catalogue, search, favorites, cart, checkout and role-based user accounts | Node.js, Express, PostgreSQL | [Demo](https://pythia-bookshop.onrender.com) |
 | [gamification-module](https://github.com/vaYordanova2005/gamification-module) | Standalone gamification module (achievements, XP, badges) extracted from an internship LMS project | Node.js, Express, React, MongoDB | [Demo](https://gamification-module-preview.onrender.com/demo) |
 | [GraphMind-Intelligent-Document-Assistant](https://github.com/GraphMind-Team/GraphMind-Intelligent-Document-Assistant) | Document Q&A assistant combining vector retrieval with knowledge-graph traversal for grounded, cited answers | Python (FastAPI), React, Neo4j, Weaviate | [Demo](https://graphmind-web.onrender.com) |
 
